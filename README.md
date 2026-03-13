@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber Security as an intern.
 - 📫 How to reach my mail - abhikmakwana13@gmail.com
 -  LinkedIn - www.linkedin.com/in/abhikmakwana
+- My Blog - https://medium.com/@mAd13/my-first-cve-a-dream-realized-8bad3ede900a
 
 <!---
 mAd1301/mAd1301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
